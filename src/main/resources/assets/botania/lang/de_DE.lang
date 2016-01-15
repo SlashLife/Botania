@@ -9,10 +9,10 @@ botaniamisc.oredict=Ore Dictionary-Herstellung
 botaniamisc.statusUnknown=Unbekannter Status
 botaniamisc.color=%s gefärbt
 botaniamisc.manaUsage=Manaverbrauch
-botaniamisc.shiftToRead=Shift-rechtsklicke, um mehr zu lesen
-botaniamisc.clickToRecipe=Shift-klicke, um Rezept zu sehen
-botaniamisc.clickToIndex=Shift-klicke für Index
-botaniamisc.flareColor=Ladungen %s
+botaniamisc.shiftToRead=Shift-Rechtsklick: Weiterlesen
+botaniamisc.clickToRecipe=Shift-Klick: Rezept anzeigen
+botaniamisc.clickToIndex=Shift-Klicke: Zurück zum Index
+botaniamisc.flareColor=Signalfarbe: %s
 botaniamisc.outputtingPower=Gibt Mana an Gegenstände ab
 botaniamisc.inputtingPower=Nimmt Mana von Gegenstände auf
 botaniamisc.creative=Kreativmodus
@@ -21,9 +21,9 @@ botaniamisc.compositeLens=Gemisch mit %s
 botaniamisc.filter0=Gegenstände in Rahmen aufsammeln
 botaniamisc.filter1=Gegenstände in Rahmen liegenlassen
 botaniamisc.filter2=Alle Gegenstände aufsammeln
-botaniamisc.creativePool0=Kreatives Manabecken, hat unendlich Mana
+botaniamisc.creativePool0=Kreatives Manabecken: Unbegrenzte Manavorräte
 botaniamisc.creativePool1=Eines Egoisten würdig
-botaniamisc.savedByLaurel=Dein goldener Lorbeerkranz zersplitterte, als er dich vor dem Tod rettete.
+botaniamisc.savedByLaurel=Neue Kraft strömt in deinen Körper, als dein Lorbeerkranz zerbirst.
 botaniamisc.toolRank=%s&7-Rang
 
 # COLORS
