@@ -80,9 +80,9 @@ botania.versioning.error=Woah! Anscheinend ist etwas schiefgelaufen, während da
 botania.versioning.disabled=Sorry. Dieses Feature ist momentan wegen Server-Host-Problemen deaktiviert, es sollte jedoch bald wieder zurück sein.
 
 # BAUBLE TOOLTIPS
-botania.baubletype.amulet=Ausrüstbar im &aAmulett&7-Slot
-botania.baubletype.ring=Ausrüstbar im &aRing&7-Slot
-botania.baubletype.belt=Ausrüstbar im &aGürtel&7-Slot
+botania.baubletype.amulet=Wird im &aAmulett&7-Slot ausgerüstet
+botania.baubletype.ring=Wird im &aRing&7-Slot ausgerüstet
+botania.baubletype.belt=Wird im &aGürtel&7-Slot ausgerüstet
 botania.baubletooltip=Drücke &b%key%&7, um das Baubles-Menü zu öffnen
 botania.baubleinfo=Halte &bSHIFT&7 für mehr Info
 
